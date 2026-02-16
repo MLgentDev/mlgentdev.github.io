@@ -4,7 +4,7 @@
         <title>MLgentDev</title>
         <link>https://mlgent.dev</link>
         <description>MLgentDev - Building, learning, and growing in the age of AI</description>
-        <lastBuildDate>Sun, 15 Feb 2026 22:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 22:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -17,33 +17,8 @@
             <title><![CDATA[Turn Your Playwright Tests Into Interactive Tutorials]]></title>
             <link>https://mlgent.dev/articles/playwright-tests-as-tutorials</link>
             <guid isPermaLink="false">https://mlgent.dev/articles/playwright-tests-as-tutorials</guid>
-            <pubDate>Sat, 15 Feb 2025 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[How to dual-purpose Playwright E2E tests as interactive tutorials by injecting Driver.js overlays at runtime.]]></content:encoded>
-            <author>ea.shmakov@gmail.com (Evgenii Shmakov)</author>
-        </item>
-        <item>
-            <title><![CDATA[Crafting a design system for a multiplanetary future]]></title>
-            <link>https://mlgent.dev/articles/crafting-a-design-system-for-a-multiplanetary-future</link>
-            <guid isPermaLink="false">https://mlgent.dev/articles/crafting-a-design-system-for-a-multiplanetary-future</guid>
-            <pubDate>Mon, 05 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Most companies try to stay ahead of the curve when it comes to visual design, but for Planetaria we needed to create a brand that would still inspire us 100 years from now when humanity has spread across our entire solar system.]]></content:encoded>
-            <author>ea.shmakov@gmail.com (Evgenii Shmakov)</author>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Animaginary: High performance web animations]]></title>
-            <link>https://mlgent.dev/articles/introducing-animaginary</link>
-            <guid isPermaLink="false">https://mlgent.dev/articles/introducing-animaginary</guid>
-            <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[When you’re building a website for a company as ambitious as Planetaria, you need to make an impression. I wanted people to visit our website and see animations that looked more realistic than reality itself.]]></content:encoded>
-            <author>ea.shmakov@gmail.com (Evgenii Shmakov)</author>
-        </item>
-        <item>
-            <title><![CDATA[Rewriting the cosmOS kernel in Rust]]></title>
-            <link>https://mlgent.dev/articles/rewriting-the-cosmos-kernel-in-rust</link>
-            <guid isPermaLink="false">https://mlgent.dev/articles/rewriting-the-cosmos-kernel-in-rust</guid>
-            <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[When we released the first version of cosmOS last year, it was written in Go. Go is a wonderful programming language, but it’s been a while since I’ve seen an article on the front page of Hacker News about rewriting some important tool in Go and I see articles on there about rewriting things in Rust every single week.]]></content:encoded>
-            <author>ea.shmakov@gmail.com (Evgenii Shmakov)</author>
         </item>
     </channel>
 </rss>
