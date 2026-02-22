@@ -4,7 +4,7 @@
         <title>MLgentDev</title>
         <link>https://mlgent.dev</link>
         <description>MLgentDev - Building, learning, and growing in the age of AI</description>
-        <lastBuildDate>Wed, 18 Feb 2026 00:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Feb 2026 23:45:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -13,6 +13,13 @@
             <link>https://mlgent.dev</link>
         </image>
         <copyright>All rights reserved 2026</copyright>
+        <item>
+            <title><![CDATA[Add Voice Narration to Your Playwright Tutorial Tests]]></title>
+            <link>https://mlgent.dev/articles/adding-voice-narration-to-playwright-tests</link>
+            <guid isPermaLink="false">https://mlgent.dev/articles/adding-voice-narration-to-playwright-tests</guid>
+            <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[How to add TTS narration to Playwright tutorial tests with two backends: Web Speech API for live previews and edge-tts for producing narrated video artifacts.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Turn Your Playwright Tests Into Interactive Tutorials]]></title>
             <link>https://mlgent.dev/articles/playwright-tests-as-tutorials</link>
